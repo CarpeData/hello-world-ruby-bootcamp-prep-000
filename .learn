@@ -14,3 +14,8 @@ type:
   - lecture
 feature_tours:
   ask_a_question: true
+
+ruby hello_world.rb 
+
+
+ruby hello_world.rb
